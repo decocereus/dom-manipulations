@@ -1,0 +1,25 @@
+{
+  "name": "dom-manipulations",
+  "version": "1.0.0",
+  "description": "DOM-Manipulations with ts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/decocereus/dom-manipulations.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/decocereus/dom-manipulations/issues"
+  },
+  "homepage": "https://github.com/decocereus/dom-manipulations#readme",
+  "devDependencies": {
+    "@types/node": "^22.14.1",
+    "typescript": "^5.8.3"
+  }
+}
